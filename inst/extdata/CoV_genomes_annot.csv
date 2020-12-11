@@ -1,0 +1,53 @@
+﻿accession,name,location,species,sci_name,id
+AY278488,HCoV-SARS-BJ01,China,human,Homo sapiens,Homo sapiens njarasensis
+AY278489,HCoV-SARS-GD01,China,human,Homo sapiens,Homo sapiens njarasensis
+AY304488,civet-SARS-SZ16,Hong Kong,civet,Paradoxurus hermaphroditus,Paradoxurus
+AY391777,HCoV-OC43,Belgium,human,Homo sapiens,Homo sapiens njarasensis
+AY394981,HCoV-SARS-HGZ8L1-A,Guangdong,human,Homo sapiens,Homo sapiens njarasensis
+DQ022305,bat-HKU3-1,Guangdong,bat,Rhinolophus sp.,Chiroptera
+DQ071615,batCoV-SARSr-Rp3,Wuhan,bat,Chiroptera,Chiroptera
+DQ412042,batCoV-SARSr-Rf1,Wuhan,bat,Rhinolophus ferrumequinum,Chiroptera
+DQ412043,batCoV-SARSr-Rm1,Wuhan,bat,Rhinolophus macrotis,Chiroptera
+DQ648857,batCoV-279-2005,China,bat,Rhinolophus sp.,Chiroptera
+EF065505,batCoV-HKU4-1,Guangdong,bat,Chiroptera,Chiroptera
+EF065509,batCoV-HKU5-1,Guangdong,bat,Chiroptera,Chiroptera
+EF065513,batCoV-HKU9-1,Guangdong,bat,Chiroptera,Chiroptera
+FJ588686,batCoV-SARSr-Rs672-2006,Wuhan,bat,Rhinolophus sinicus,Chiroptera
+FJ647223,MCoV-MHV-1,USA,mice,Mus musculus,Mus musculus
+GU190215,batCoV-BM48-31/BGR/2008,Bulgaria,bat,Rhinolophus blasii,Chiroptera
+JX869059,HCoV-MERS,Saudi Arabia,human,Homo sapiens,Homo sapiens njarasensis
+JX993987,batCoV-Rp-Shaanxi2011,China,bat,Rhinolophus pusillus,Chiroptera
+JX993988,batCoV-Cp-Yunnan2011,Yunnan,bat,Chaerephon plicata,Chiroptera
+KC545386,ErinaceusCoV-VMC-DEU-2012,Germany,European hedgehog,Erinaceus europaeus,Erinaceus europaeus
+KC881005,batCoV-SARSr-RsSHC014,Wuhan,bat,Rhinolophus sinicus,Chiroptera
+KF294457,batCoV-SARSr-Longquan-140,China,bat,Rhinolophus monoceros,Chiroptera
+KF367457,bat-WIV1,China,bat,Rhinolophus sinicus,Chiroptera
+KF569996,batCoV-LYRa11,Changchun,bat,Rhinolophus affinis,Chiroptera
+KF636752,Hp-batCoV-Zhejiang2013,Zhejiang,bat,Hipposideros pratti,Chiroptera
+KJ473812,batCoV-HeB2013,China,bat,Rhinolophus ferrumequinum,Chiroptera
+KJ473814,batCoV-HuB2013,China,bat,Rhinolophus sinicus,Chiroptera
+KJ473815,batCoV-GX2013,China,bat,Rhinolophus sinicus,Chiroptera
+KJ473816,batCoV-YN2013,China,bat,Rhinolophus sinicus,Chiroptera
+KM349744,BetaCoV-HKU24,China,Norway rat,Rattus norvegicus,Rattus norvegicus
+KP886808,batCoV-SARSr-YNLF_31C,China,bat,Rhinolophus Ferrumequinum,Chiroptera
+KT444582,batCoV-SARSr-WIV16,China,bat,Rhinolophus sinicus,Chiroptera
+KU762338,Rousettus-batCoV-GCCDC1-356,China,bat,Rousettus leschenaulti,Chiroptera
+KY352407,batCoV-SARSr-BtKY72,Kenya,bat,Rhinolophus sp.,Chiroptera
+KY417142,batCoV-SARSr-As6526,China,bat,Aselliscus stoliczkanus,Chiroptera
+KY417145,batCoV-SARSr-Rf4092,China,bat,Rhinilophus ferrumequinum,Chiroptera
+KY417146,batCoV-SARSr-Rs4231,China,bat,Rhinolophus sinicus,Chiroptera
+KY417148,batCoV-SARSr-Rs4247,China,bat,Rhinolophus sinicus,Chiroptera
+KY417151,batCoV-SARSr-Rs7327,China,bat,Rhinolophus sinicus,Chiroptera
+KY770859,batCoV-Anlong-112,China,bat,Rhinolophus sinicus,Chiroptera
+KY770860,batCoV-Jiyuan-84,China,bat,Rhinolophus ferrumequinum,Chiroptera
+KY938558,batCoV-16BO133,South Corea,bat,Rhinolophus ferrumequinum,Chiroptera
+MG772933,batCoV-SARSr-CoVZC45,China,bat,Rhinolophus sinicus,Chiroptera
+MG772934,batCoV-SARSr-CoVZXC21,China,bat,Rhinolophus sinicus,Chiroptera
+MK167038,HCoV-HKU1,USA,human,Homo sapiens,Homo sapiens njarasensis
+MK211374,batCoV-SC2018,China,bat,Rhinolophus sp.,Chiroptera
+MK211375,batCoV-YN2018A,China,bat,Rhinolophus affinis,Chiroptera
+MK211376,batCoV-YN2018B,China,bat,Rhinolophus affinis,Chiroptera
+MK211377,batCoV-YN2018C,China,bat,Rhinolophus affinis,Chiroptera
+MK211378,batCoV-YN2018D,China,bat,Rhinolophus affinis,Chiroptera
+MN908947,HCoV-SARS-2,Wuhan,human,Homo sapiens,Homo sapiens njarasensis
+MN996532,bat-RaTG13,China,bat,Rhinolophus affinis,Chiroptera
